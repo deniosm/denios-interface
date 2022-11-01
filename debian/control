@@ -1,0 +1,15 @@
+Package: denios-interface-common
+Source: denios-interface
+Version: 1.0.1
+Architecture: all
+Maintainer: Denis Maslo <denios-linux@proton.me>
+Installed-Size: 26
+Depends: xinit, xorg, xdg-user-dirs, xdg-user-dirs-gtk, xserver-xorg-input-all, xserver-xorg-input-multitouch, xserver-xorg-input-synaptics, denios-wallpapers, denios-themes, maia-icon-theme, denios-menu, denios-core (>= 1.0.1), denios-firefox-profiles
+Recommends: bleachbit, bluetooth, bluez, blueman, dconf-editor, gdebi, geany, gparted, firefox-esr, libnotify-bin, denios-displaymanager, synaptic, xboard, pulseaudio, qbittorrent, vlc, onboard, dasher, xvkbd, webext-ublock-origin, chromium-ublock-origin, libatk-adaptor
+Suggests: denios-interface-full
+Replaces: firefox, firefox-esr, iceweasel
+Section: metapackages
+Priority: optional
+Homepage: https://sourceforge.net/projects/denios-linux/
+Description: Denios interface metapackage
+ metapackage that installs the basic tools for the Denios environment.
