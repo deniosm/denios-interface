@@ -1,3 +1,11 @@
+denios-interface (1.0.2) testing; urgency=low
+
+  * Fix lists for mate desktop 
+  * Update lightdm conf
+  * Update slick-greeter conf
+
+ -- Denis Maslo <denios-linux@proton.me>  Wed, 18 Jan 2023 10:16:55 +0100
+ 
 denios-interface (1.0.1) unstable; urgency=low
 
   * Initial Version 

@@ -1,0 +1,10 @@
+policies.json documentation:
+https://support.mozilla.org/en-US/products/firefox-enterprise/policies-customization-enterprise/policies-overview-enterprise
+https://github.com/mozilla/policy-templates
+
+distribution.ini documentation:
+https://wiki.mozilla.org/Distribution_INI_File
+
+Cool settings
+https://github.com/pyllyukko/user.js/blob/master/user.js
+License: MIT
